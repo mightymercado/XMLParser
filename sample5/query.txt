@@ -1,0 +1,1 @@
+recordTarget.patientRole.addr[id=SanFrancisco].city
